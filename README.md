@@ -6,6 +6,6 @@
 
 3.	Unpack the Hybrid Zip file to a suitable Folder.
 
-4.	Simulation Functions in Matlab
+4.	Run simulation Functions in Matlab (Kwave_2D_Focus_PointLine, Kwave_3D_Flat_BloodVessel, Kwave_3D_Focus_PointArray)
 
 5.	Run Corresponding example functions in Matlab.
