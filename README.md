@@ -9,3 +9,6 @@
 4.	Run simulation Functions in Matlab (Kwave_2D_Focus_PointLine, Kwave_3D_Flat_BloodVessel, Kwave_3D_Focus_PointArray)
 
 5.	Run Corresponding example functions in Matlab.
+
+
+Detail theory refers to 10.1109/TMI.2019.2917688
