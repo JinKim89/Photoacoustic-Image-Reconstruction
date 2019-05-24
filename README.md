@@ -11,4 +11,6 @@
 5.	Run Corresponding example functions in Matlab.
 
 
-Detail theory refers to 10.1109/TMI.2019.2917688
+Detail theory refers to paper "Fast and High-resolution Three-dimensional Hybrid-domain Photoacoustic Imaging Incorporating Analytical Focused Transducer Beam Amplitude"
+
+DOI:10.1109/TMI.2019.2917688
