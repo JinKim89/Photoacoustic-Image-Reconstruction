@@ -1,5 +1,7 @@
 # Photoacoustic-Image-Reconstruction
 
+Please Download Hybrid (v1.1)
+
 1.	Install K-wave Toolbox (http://www.k-wave.org)
 
 2.	Install Fuzzy Logic Toolbox (https://www.mathworks.com/help/fuzzy/index.html?s_tid=CRUX_lftnav)
@@ -14,3 +16,9 @@
 Detail theory refers to paper "Fast and High-resolution Three-dimensional Hybrid-domain Photoacoustic Imaging Incorporating Analytical Focused Transducer Beam Amplitude"
 
 DOI:10.1109/TMI.2019.2917688
+
+
+
+Bug repair
+1. repaired some bugs of 2D-simulation for flat transducer 
+2. repaired some bugs of 2D-reconstruction for flat transducer
